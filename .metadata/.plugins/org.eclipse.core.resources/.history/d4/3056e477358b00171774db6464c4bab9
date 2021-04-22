@@ -1,0 +1,9 @@
+package nb;
+
+public class jb {
+	public static void main(String args[])
+	{
+		System.out.println("hello word");
+	}
+
+}
